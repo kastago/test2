@@ -49,6 +49,9 @@
       <skip>true</skip>
    </configuration>
 </plugin>
+</plugins>
+</build>
+  
 
 <plugin>
    <groupId>org.sonatype.plugins</groupId>
@@ -69,8 +72,6 @@
       <skipStaging>true</skipStaging>
    </configuration>
 </plugin>
-</plugins>
-</build>
-  
+
 
 </project>
