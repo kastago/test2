@@ -24,8 +24,8 @@
     </repository>
   </distributionManagement>
   
-  
-  
+  </build>
+  <plugins>
   <plugin>
    <artifactId>maven-deploy-plugin</artifactId>
    <version>2.7</version>
@@ -69,6 +69,8 @@
       <skipStaging>true</skipStaging>
    </configuration>
 </plugin>
+</plugins>
+</build>
   
 
 </project>
