@@ -13,7 +13,7 @@
       <url>http://localhost:8081/repository/maven-group/</url>
     </repository>
   </repositories>
-  <!--<distributionManagement>
+  <distributionManagement>
     <snapshotRepository>
       <id>nexus-snapshots</id>
       <url>http://localhost:8081/repository/maven-snapshots/</url>
@@ -22,6 +22,6 @@
       <id>nexus-releases</id>
       <url>http://localhost:8081/repository/maven-releases/</url>
     </repository>
-  </distributionManagement>-->
+  </distributionManagement>
 
 </project>
