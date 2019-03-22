@@ -24,7 +24,7 @@
     </repository>
   </distributionManagement>
   
-  </build>
+  <build>
   <plugins>
   <plugin>
    <artifactId>maven-deploy-plugin</artifactId>
